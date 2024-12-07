@@ -26,7 +26,10 @@ The dataset includes:
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AravindBethapudi/titanic-prediction.git
-   cd titanic-prediction
+
+**Fix:**
+```markdown
+```bash
+git clone https://github.com/AravindBethapudi/titanic-prediction.git
+cd titanic-prediction
+
