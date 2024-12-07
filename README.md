@@ -1,5 +1,4 @@
 # Titanic Survival Prediction Project
-
 This project predicts Titanic passengers' survival using machine learning models. It demonstrates data preprocessing, feature engineering, model training, and evaluation.
 
 ## Table of Contents
@@ -13,7 +12,6 @@ This project predicts Titanic passengers' survival using machine learning models
 8. [License](#license)
 
 ## Dataset
-
 The dataset includes:
 - `PassengerId`: Unique identifier for passengers.
 - `Survived`: Target variable (1 = survived, 0 = did not survive).
@@ -25,11 +23,9 @@ The dataset includes:
 - `Fare`: Ticket fare.
 
 ## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AravindBethapudi/titanic-prediction.git
+   cd titanic-prediction
 
-
-**Fix:**
-```markdown
-```bash
-git clone https://github.com/AravindBethapudi/titanic-prediction.git
-cd titanic-prediction
 
